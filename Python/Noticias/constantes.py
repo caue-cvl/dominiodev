@@ -1,0 +1,12 @@
+base_url_dolar = 'https://v6.exchangerate-api.com/v6/[CHAVE_API]]/latest/USD'
+base_url_localizador = "http://api.ipstack.com/check?access_key=[CHAVE_API]"
+API_key_weather = '[CHAVE_API]'
+RED   = "\033[0;31m"
+BLUE  = "\033[1;34m"
+YELLOW = "\033[0;93m"
+CYAN  = "\033[0;36m"
+PURPLE = "\033[1;35;40m"
+GREEN = "\033[0;32m"
+RESET = "\033[0;0m"
+BOLD    = "\033[;1m"
+REVERSE = "\033[;7m"
