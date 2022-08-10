@@ -3,5 +3,7 @@ Este projeto tem o objetivo de coletar notícias importantes do dia. Um detalhe 
 Para obter as chaves das APIs acessem os seguintes sites:
 
 1- https://www.exchangerate-api.com/
+<br>
 2- https://ipstack.com/
+<br>
 3- https://openweathermap.org/api
